@@ -20,6 +20,12 @@
 
   <h1>EJEMPLO EJERCICIO. Galer&iacute;as de im&aacute;genes</h1>
   <h2>Una selecci&oacute;n de flores.</h2>
+  <h1>Lorenzo Alba Fernández<h1>
+  <h2>Examen Parte Practico Entorno<h2>
+  <h3>19/12/2022</h3>
+  
+             
+
 
   
 
@@ -59,6 +65,11 @@
   <p>Copyright 2022, www.cesurformaion.com</p>
 
 
-  
+  <h1 style="color:red">
+          <?php
+                  echo 'Autor:(Lorenzo Alba Fernández)';
+                  ?>
+                  </h1>
 </body>
+
 </html>
