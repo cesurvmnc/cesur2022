@@ -11,6 +11,14 @@
 			background-color: greenyellow;
 			padding: 10px;
 		}
+    /*
+    Modificaciones abajo
+    */
+    *{
+      background-color: #000fff;
+      font-weight: bold;
+      color: #ffffff;
+    }
 	</style>
 
 
@@ -57,7 +65,12 @@
      
 
   <p>Copyright 2022, www.cesurformaion.com</p>
+    <h1 style="color:red">
+    <?php
+      echo 'Autor: ( Lucas Herrero)'
+    ?>
 
+  </h1>
 
   
 </body>
