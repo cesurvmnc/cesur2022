@@ -5,7 +5,7 @@
 	<meta name="description" content="Web sencilla de im&aacute;genes">
 	<meta name="keywords" content="HTML5, CSS3, JavaScript">
 	<title>Flores</title>
-
+<link rel="stylesheet" href="reset.css">
 	<style>
 		div{
 			background-color: greenyellow;
@@ -57,8 +57,11 @@
      
 
   <p>Copyright 2022, www.cesurformaion.com</p>
+<h1 style="color:red">
+<?php
+        echo 'Autor(Rafael Quevedo Ibáñez)';
+        ?>
+ </h1> 
 
-
-  
 </body>
 </html>
