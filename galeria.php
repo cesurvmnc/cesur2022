@@ -23,7 +23,7 @@
 
   
 
-   
+   <h2>Imagenes de flores y sus respectivos nombres</h2>
  
       <img src="imagenes/1.jpg" alt="Flores de corte" width="200" height="200">
     
@@ -58,7 +58,11 @@
 
   <p>Copyright 2022, www.cesurformaion.com</p>
 
-
+<h1 style="color: red">
+  <?php
+    echo 'Autor: Alejandro Alvarez Merida';
+  ?>
+</h1>
   
 </body>
 </html>
