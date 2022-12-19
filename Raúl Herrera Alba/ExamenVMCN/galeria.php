@@ -5,6 +5,7 @@
 	<meta name="description" content="Web sencilla de im&aacute;genes">
 	<meta name="keywords" content="HTML5, CSS3, JavaScript">
 	<title>Flores</title>
+  <link rel="stylesheet" href="styles.css">
 
 	<style>
 		div{
@@ -17,13 +18,11 @@
 </head>
 <body>
 
-
+<div class="Raul">
   <h1>EJEMPLO EJERCICIO. Galer&iacute;as de im&aacute;genes</h1>
   <h2>Una selecci&oacute;n de flores.</h2>
+  </div>
 
-  
-
-   
  
       <img src="imagenes/1.jpg" alt="Flores de corte" width="200" height="200">
     
@@ -58,7 +57,11 @@
 
   <p>Copyright 2022, www.cesurformaion.com</p>
 
-
+<h1 style="color:red">
+    <?php
+        echo 'Autor:(Raúl Herrera Alba)';
+        ?>
+        </h1>
   
 </body>
 </html>
