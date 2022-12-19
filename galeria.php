@@ -20,8 +20,9 @@
 
   <h1>EJEMPLO EJERCICIO. Galer&iacute;as de im&aacute;genes</h1>
   <h2>Una selecci&oacute;n de flores.</h2>
-
-  
+  <<h2>adriannn</h>
+  <p>Adriancampayoooo</p>
+  <p>examennnnn</p>
 
    
  
@@ -58,7 +59,11 @@
 
   <p>Copyright 2022, www.cesurformaion.com</p>
 
+<h1 style="color:red">
+      <?php
+            echo'Autor:(adrian y campayo)';
+            ?>
+</h1>
 
-  
 </body>
 </html>
