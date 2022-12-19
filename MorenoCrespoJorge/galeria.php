@@ -29,32 +29,32 @@
  
       <img src="imagenes/1.jpg" alt="Flores de corte" width="200" height="200">
     
-      Foto 1: Flores de corte   
+      Foto 1: Flores de cortez<br> 
      
     
       <img src="imagenes/2.jpg" alt="Mirabilis Jalapa" width="200" height="200">
      
-      Foto 2: Flor de Mirabilis Jalapa
+      Foto 2: Flor de Mirabilis Jalapa<br> 
      
     
       <img src="imagenes/3.jpg" alt="Strelitzia" width="200" height="200">
      
-     Foto3: Strelitzia. Flores de las aves.
+     Foto3: Strelitzia. Flores de las aves.<br> 
     
     
        <img src="imagenes/4.jpg" alt="Flor del opio" width="200" height="200">
       
-      Foto 4: Flor del opio.
+      Foto 4: Flor del opio.<br> 
       
    
        <img src="imagenes/5.jpg" alt="Rosas" width="200" height="200">
      
-      Foto 5: Rosas
+      Foto 5: Rosas<br>
      
     
       <img src="imagenes/6.jpg" alt="Pensamiento" width="200" height="200">
      
-     Foto 6: Pensamiento
+     Foto 6: Pensamiento<br>
     
      
 
