@@ -18,6 +18,10 @@
 <body>
 
 
+<h1>Cambio 1</h1>
+<h2>Cambio 2</h2>
+<p>Cambio 3</p>
+
   <h1>EJEMPLO EJERCICIO. Galer&iacute;as de im&aacute;genes</h1>
   <h2>Una selecci&oacute;n de flores.</h2>
 
@@ -58,7 +62,11 @@
 
   <p>Copyright 2022, www.cesurformaion.com</p>
 
-
+<h1 style="color:red">
+    <?php
+      echo 'Autor: Juan Ramón Rodríguez Segura';
+    ?>
+</h1>
   
 </body>
 </html>
