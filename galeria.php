@@ -12,13 +12,17 @@
 			padding: 10px;
 		}
 	</style>
-
+<h1 style="color:red">
+<?php
+echo 'Autor:(Jose Miguel Ruiz Guevara)';
+?>
+</h1>
 
 </head>
 <body>
 
 
-  <h1>EJEMPLO EJERCICIO. Galer&iacute;as de im&aacute;genes</h1>
+  <h1>of8fo8fyo8of8oaler&iacute;as de im&aacute;genes</h1>
   <h2>Una selecci&oacute;n de flores.</h2>
 
   
