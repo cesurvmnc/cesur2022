@@ -1,0 +1,15 @@
+.titulo{
+    color: blue;
+    text-align: center;
+}
+.centro{
+    align-content: center;
+    color: blue;;
+}
+.span{
+    color:black;
+    text-align: center;
+}
+*{
+    text-align: center;
+}
